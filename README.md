@@ -2,6 +2,12 @@
 
 A Python application using Gradio and OpenAI Agents SDK where two GPT-4o-mini agents compete in Tic-Tac-Toe with creative strategies and random first moves for variety.
 
+## 🚀 Live Demo
+
+Try the application online: **[AI Tic-Tac-Toe Battle on Hugging Face Spaces](https://huggingface.co/spaces/devsu/agentic-tic-tac-toe)**
+
+*Note: You'll need to provide your OpenAI API key to run the demo.*
+
 ## Features
 
 - 🤖 Two GPT-4o-mini agents competing in Tic-Tac-Toe
